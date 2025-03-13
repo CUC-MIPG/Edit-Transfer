@@ -1,1 +1,0 @@
-[TOP-LEFT]: The original source image. [TOP-RIGHT]: An edited version of the [TOP-LEFT] image, transformed to depict the subject wearing glasses. [BOTTOM-LEFT]: A second original source image. [BOTTOM-RIGHT]: An edited version of the [BOTTOM-LEFT] image, applying the same transformation to depict the subject wearing glasses, as used in [TOP-RIGHT].

@@ -1,1 +1,0 @@
-This is a four-panel image grid: [TOP-LEFT]: The original source image. [TOP-RIGHT]: An edited version of [TOP-LEFT], where the subject is depicted in a side view. [BOTTOM-LEFT]: A second original source image. [BOTTOM-RIGHT]: An edited version of [BOTTOM-LEFT], with the same side-view transformation applied as in [TOP-RIGHT].

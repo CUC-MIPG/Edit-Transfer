@@ -1,1 +1,0 @@
-This is a four-panel image grid: [TOP-LEFT]: The original source image. [TOP-RIGHT]: An edited version of the [TOP-LEFT] image, transformed to depict a crossing arms motion. [BOTTOM-LEFT]: A second original source image. [BOTTOM-RIGHT]: An edited version of the [BOTTOM-LEFT] image, applying the same crossing arms motion transformation as used in [TOP-RIGHT].

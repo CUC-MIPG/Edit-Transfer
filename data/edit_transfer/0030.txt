@@ -1,1 +1,0 @@
-This is a four-panel image grid: [TOP-LEFT]: The original source image. [TOP-RIGHT]: An edited version of [TOP-LEFT], where the subject is transformed into a sitting position. [BOTTOM-LEFT]: A second original source image. [BOTTOM-RIGHT]: An edited version of [BOTTOM-LEFT], with the same sitting position transformation applied as in [TOP-RIGHT].

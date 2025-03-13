@@ -1,1 +1,0 @@
-This is a four-panel image grid: [TOP-LEFT]: The original source image. [TOP-RIGHT]: An edited version of [TOP-LEFT], where the subject is depicted in a zoomed-in view. [BOTTOM-LEFT]: A second original source image. [BOTTOM-RIGHT]: An edited version of [BOTTOM-LEFT], with the same zoom-in transformation applied as in [TOP-RIGHT].
