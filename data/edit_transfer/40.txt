@@ -1,0 +1,1 @@
+This is a four-panel image grid: [TOP-LEFT]: The original source image. [TOP-RIGHT]: An edited version of the [TOP-LEFT] image, where the subject is depicted making a thumbs-up gesture. [BOTTOM-LEFT]: A second original source image. [BOTTOM-RIGHT]: An edited version of the [BOTTOM-LEFT], with the same thumbs-up gesture transformation applied as in [TOP-RIGHT].

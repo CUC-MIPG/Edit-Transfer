@@ -1,0 +1,11 @@
+diffusers
+transformers
+accelerate
+scipy
+safetensors
+pyyaml
+pydantic
+dadaptation
+lion-pytorch
+wandb
+omegaconf
