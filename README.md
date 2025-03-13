@@ -1,4 +1,4 @@
-# MakeAnything
+# Edit Transfer
 
 > **Edit Transfer: Learning Image Editing via Vision In-Context Relations**
 > <br>
