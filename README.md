@@ -70,10 +70,13 @@ python edit_transfer.py --model_dir [your_model_dir] --model_name [your_model_na
 
 ## Citation
 ```
-@inproceedings{Song2025MakeAnythingHD,
-  title={MakeAnything: Harnessing Diffusion Transformers for Multi-Domain Procedural Sequence Generation},
-  author={Yiren Song and Cheng Liu and Mike Zheng Shou},
-  year={2025},
-  url={https://api.semanticscholar.org/CorpusID:276107845}
+@misc{chen2025edittransferlearningimage,
+      title={Edit Transfer: Learning Image Editing via Vision In-Context Relations}, 
+      author={Lan Chen and Qi Mao and Yuchao Gu and Mike Zheng Shou},
+      year={2025},
+      eprint={2503.13327},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2503.13327}, 
 }
 ```
