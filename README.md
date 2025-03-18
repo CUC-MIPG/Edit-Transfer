@@ -4,11 +4,12 @@
 > <br>
 > [Lan Chen](https://github.com/Orannue), 
 > [Qi Mao](https://scholar.google.com/citations?user=VTQZF6EAAAAJ&hl=zh-CN), 
-> [Yuchao Gu](https://scholar.google.com/citations?user=YpfrXyQAAAAJ&hl=zh-CN)
+> [Yuchao Gu](https:/lab/scholar.google.com/citations?user=YpfrXyQAAAAJ&hl=zh-CN)
 > and 
 > [Mike Zheng Shou](https://sites.google.com/view/showlab)
 > <br>
-> [MIPG](https://github.com/CUC-MIPG), Communication University of China
+> [MIPG](https://github.com/CUC-MIPG), Communication University of China;
+> [Show Lab](https://github.com/showlab), National University of Singapore
 > <br>
 
 [![Project Website](https://img.shields.io/badge/Project-Website-orange
