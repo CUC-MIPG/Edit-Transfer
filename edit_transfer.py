@@ -1,6 +1,5 @@
 import torch
 from toolkit.pipeline_flux_inpaint import FluxInpaintPipeline
-# from diffusers import FluxInpaintPipeline
 from PIL import Image
 import os
 from toolkit.samplers.custom_flowmatch_sampler import CustomFlowMatchEulerDiscreteScheduler
@@ -18,9 +17,8 @@ parser.add_argument("--save_dir", default="result", type=str)
 
 args = parser.parse_args()
 
-pipe = FluxInpaintPipeline.from_pretrained("/data/models/FLUX.1-dev/", torch_dtype=torch.bfloat16)
+pipe = FluxInpaintPipeline.from_pretrained("/data/models/FLUX.1-dev/",  torch_dtype=torch.bfloat16)
 pipe.to("cuda")
-# pipe.enable_model_cpu_offload()
 pipe.load_lora_weights(args.model_dir, weight_name=args.model_name)
 
 if not os.path.exists(args.save_dir):
@@ -42,6 +40,7 @@ for i in range(16):
         height=1024,
         width=1024,
         num_inference_steps=35,
+        strength=1.0,
         generator=torch.Generator("cpu").manual_seed(seed)
     ).images[0]
 
