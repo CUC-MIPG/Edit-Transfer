@@ -22,8 +22,8 @@
 
 ## Getting Started
 
-### Configuration
-#### 1. **Environment setup**
+
+### 1. **Environment setup**
 ```bash
 git clone https://github.com/CUC-MIPG/Edit-Transfer.git
 cd Edit-Transfer
@@ -31,12 +31,12 @@ cd Edit-Transfer
 conda create -n EditTransfer python=3.10
 conda activate EditTransfer
 ```
-#### 2. **Requirements installation**
+### 2. **Requirements installation**
 ```bash
 pip install requirements.txt
 ```
 
-#### 2. **Start training**
+### 3. **Start training**
 We use the open-source [AI-Toolkit](https://github.com/ostris/ai-toolkit) to train EditTransfer. We provide training data with a configuration file in this repo:
 
 - **Configuration File**: `config/edit_transfer.yml` 
@@ -50,7 +50,7 @@ python run.py config/edit_transfer.yml
 You can download the trained checkpoints of EditTransfer Model for inference: https://drive.google.com/file/d/1V4HraIjlMrbPfAPivk5vYoq4bQTzcP4L/view?usp=sharing 
 
 
-### 3. Inference
+### 4. Inference
 Once the training is done, replace file paths and run the following code:
 
 ```
