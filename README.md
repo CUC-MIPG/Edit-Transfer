@@ -13,7 +13,7 @@
 
 [![Project Website](https://img.shields.io/badge/Project-Website-orange
 )](https://cuc-mipg.github.io/EditTransfer.github.io/)
-<a href="https://arxiv.org/abs/2502.01572"><img src="https://img.shields.io/badge/ariXv-2411.15098-A42C25.svg" alt="arXiv"></a>
+<!-- <a href="https://arxiv.org/abs/2503.13327"><img src="https://img.shields.io/badge/ariXv-2411.15098-A42C25.svg" alt="arXiv"></a> -->
 
 <br>
 
