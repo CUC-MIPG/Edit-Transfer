@@ -15,7 +15,8 @@
 [![Project Website](https://img.shields.io/badge/Project-Website-orange
 )](https://cuc-mipg.github.io/EditTransfer.github.io/)
 <a href="https://arxiv.org/abs/2503.13327"><img src="https://img.shields.io/badge/arXiv-2503.13327-A42C25.svg" alt="arXiv"></a>
-
+<a href="https://huggingface.co/CUC-MIPG/EditTransfer"><img src="https://img.shields.io/badge/🤗_HuggingFace-Model-ffbd45.svg" alt="HuggingFace"></a>
+<a href="https://huggingface.co/datasets/CUC-MIPG/EditTransfer/"><img src="https://img.shields.io/badge/🤗_HuggingFace-Dataset-ffbd45.svg" alt="HuggingFace"></a>
 <br>
 
 <img src='./assets/teaser.png' width='100%' />
