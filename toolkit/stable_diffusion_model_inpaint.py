@@ -195,7 +195,7 @@ class StableDiffusion:
         # merge in and preview active with -1 weight
         self.invert_assistant_lora = False
 
-        #self.mask = transforms.ToTensor()(Image.open("./results/attribute_10_1/mask.png").convert('L')).unsqueeze(0)
+   
         self.mask = torch.zeros((1,1,1024,1024))
         self.mask[:,:,self.mask.size(2)//2:,self.mask.size(3)//2:] = 1
 
@@ -1352,7 +1352,7 @@ class StableDiffusion:
                             img = pipeline(
                                 image=Image.open(
                                     gen_config.image).convert('RGB'),
-                                mask_image=Image.open("/data/EditingG/chenlan/dit_baselines/IC-Lora/mask.png"),
+                                mask_image=Image.open("mask.png"),
                                 prompt_embeds=conditional_embeds.text_embeds,
                                 pooled_prompt_embeds=conditional_embeds.pooled_embeds,
                                 # negative_prompt_embeds=unconditional_embeds.text_embeds,
