@@ -72,13 +72,10 @@ python edit_transfer.py --model_dir [your_model_dir] --model_name [your_model_na
 
 ## Citation
 ```
-@misc{chen2025edittransferlearningimage,
-      title={Edit Transfer: Learning Image Editing via Vision In-Context Relations}, 
-      author={Lan Chen and Qi Mao and Yuchao Gu and Mike Zheng Shou},
-      year={2025},
-      eprint={2503.13327},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2503.13327}, 
+@article{chen2025edit,
+  title={Edit Transfer: Learning Image Editing via Vision In-Context Relations},
+  author={Chen, Lan and Mao, Qi and Gu, Yuchao and Shou, Mike Zheng},
+  journal={arXiv preprint arXiv:2503.13327},
+  year={2025}
 }
 ```
